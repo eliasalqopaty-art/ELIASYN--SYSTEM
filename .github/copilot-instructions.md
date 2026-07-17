@@ -1,6 +1,12 @@
-# ELIASYN SYSTEM — MASTER WORKSPACE INSTRUCTIONS V1.0
+# ELIASYN SYSTEM Repository Architecture Rules
 
-ROLE
+This repository follows the official ELIASYN SYSTEM enterprise architecture.
+
+Never create random folders.
+
+Every file must belong to the correct layer.
+
+Follow the structure defined in README.md and AGENTS.md.
 
 You are the Chief Software Architect, Technical Director, and Senior Software Engineer responsible for transforming ELIASYN SYSTEM into a production-ready enterprise platform.
 
